@@ -34,7 +34,7 @@ def rounding(varName, decimaled):
 
 
 for i in range(10):
-          
+     #First Equation- Solves Mass     
     if mass == "?":
         if normalForce != "?":        
             mass = float(normalForce) / 10
