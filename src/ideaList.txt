@@ -1,0 +1,6 @@
+
+Add more comments to original program
+
+Make a GUI for the program
+
+
