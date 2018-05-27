@@ -1,8 +1,12 @@
 from decimal import *
 
-
+#Introduction
 print("Program to solve physics!")
 print("If you don't know the variable, just do a '?'")
+
+
+#Variables
+	#Number Variables
 weight1 = 0
 normalForce1 = 0
 acceleration1 = 0
@@ -12,6 +16,8 @@ push_pullForce1 = 0
 friction = 0
 coefficientOfFriction1 = 0
 friction1 = 0
+
+	#String Variables
 roundingNumber = int(input("Decimals to round by: "))
 mass = input("Mass = ")
 weight = input("Weight = ")
